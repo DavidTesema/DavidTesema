@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
+
 <h3>I am David tesema</h3>
   <ul>
         <li>A software Developer</li>
