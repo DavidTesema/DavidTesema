@@ -45,6 +45,9 @@
 </p>
 
 
+	<a href="https://www.linkedin.com/in/satyam-goyal26/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
 <!--
 **DavidTesema/DavidTesema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
