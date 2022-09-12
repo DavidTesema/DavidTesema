@@ -6,6 +6,7 @@
         <li>I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
   </li>
 
+	<img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877"/>
 	
  <h4>Data Bases: </h4>
 <p align="left">
