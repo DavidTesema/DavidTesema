@@ -45,7 +45,7 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/satyam-goyal26/">
+<a href="https://www.linkedin.com/in/davidtesema/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> 
 <!--
