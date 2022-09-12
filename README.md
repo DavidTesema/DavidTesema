@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<h3>I am David tesema</h3>
+*A software Developer
+*Currently student at Teach Career college 🎓
+*I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 <!--
 **DavidTesema/DavidTesema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
