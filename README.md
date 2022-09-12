@@ -6,7 +6,8 @@
         <li>I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
   </li>
 
-	 <h4>Data Bases: </h4>
+	
+ <h4>Data Bases: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
