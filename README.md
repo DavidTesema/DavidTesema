@@ -44,7 +44,7 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 </p>
 
-<h4>Social Media: </h4>
+<h4>Social Media </h4>
 <a href="https://www.linkedin.com/in/davidtesema/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> 
