@@ -6,7 +6,7 @@
         <li>I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
   </li>
 
-<img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="code">	
+<img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="code"  width="250" height="250">	
  <h4>Data Bases: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
