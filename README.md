@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm David Tesema</h1>
+   <img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="code" align="right" width="250" height="250">	
+
   <ul>
         <li>A software Developer</li>
         <li>Currently student at Teach Career college 🎓</li>
@@ -8,7 +10,6 @@
   </li>
   </ul>
 
-   <img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="code" align="right" width="250" height="250">	
  <h4>Data Bases: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
