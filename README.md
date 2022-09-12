@@ -3,9 +3,10 @@
   <ul>
         <li>A software Developer</li>
         <li>Currently student at Teach Career college 🎓</li>
-        <li>I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.</li>
-       
-    </ul>
+        <li>I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+  </li>
+
+   
 
 <!--
 **DavidTesema/DavidTesema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
