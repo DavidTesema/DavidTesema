@@ -3,7 +3,6 @@
 
   <ul>
         <li>A software Developer</li>
-        <li>Currently student at Teach Career college 🎓</li>
         <li>I'm currently looking for opportunities.
 	</br>
 	I love to learn and contribute in any and every possible way.
@@ -18,7 +17,6 @@
    
   <h4>Backend: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
 </p>
